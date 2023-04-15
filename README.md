@@ -1,5 +1,9 @@
 # sports-barrier-free-liff
 
+ここに置かれているソースコードは @jhjcpishva と @raza-elahi によって書かれたものです。
+管理上の都合のため、一時的に @urashin が代理で登録しています。
+
+
 ## dev on docker
 
 ```sh
